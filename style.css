@@ -1,4 +1,8 @@
 body {
     background-image:url(../../Basic-Portfolio/assets/images/soft_kill/soft_kill.png);
     color: whitesmoke;
+    text-align: center;
+    padding: 100px;
+    line-height: 2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
 }
